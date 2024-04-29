@@ -1,7 +1,7 @@
 <br><br>
 <h5 align="center" style="font-family: monospace;">Oroneta</h5>
 <p align="center">
-    <img src="./rainbow_rounded.png" width="50px">
+    <img src="https://raw.githubusercontent.com/oroneta/.github/main/profile/rainbow_rounded.png" width="50px">
 </p>
 <br><br>
 
@@ -42,7 +42,14 @@
     Feel free to take a look to our three main parts of the project.
 </p>
 <p align="center">
-    <a href="https://github.com/oroneta/drone-front">Front</a> - <a href="https://github.com/oroneta/drone-module">Module</a> - <a href="https://github.com/oroneta/core-system">Core</a>
+    <a href="https://github.com/oroneta/drone-front">🎨 Front</a> - <a href="https://github.com/oroneta/drone-module">⚔ Module</a> - <a href="https://github.com/oroneta/core-system">🛠 Core</a>
+</p>
+<br>
+<p align="center">
+    Any documentation can be found in <code>/doc</code> folder or in our master repo
+</p>
+<p align="center">
+    <a href="https://github.com/oroneta/schemas">🧩 Schemas</a>
 </p>
 <br><br>
 
